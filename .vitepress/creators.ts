@@ -23,7 +23,7 @@ export const creators: Creator[] = [
     name: '絢香猫',
     avatar: '',
     username: 'nekomeowww',
-    title: 'Nólëbase 原始创作者',
+    title: '🍅番茄主理人 原始创作者',
     desc: '开发者，专注于基础设施维护，数据分析，后端、DevOps 开发',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/nekomeowww' },
@@ -36,7 +36,7 @@ export const creators: Creator[] = [
     name: '絢香音',
     avatar: '',
     username: 'LittleSound',
-    title: 'Nólëbase 原始创作者',
+    title: '🍅番茄主理人 原始创作者',
     desc: '开源开发者，专注于前端，以及前端相关工具库和工具链开发',
     links: [
       { type: 'github', icon: 'github', link: 'https://github.com/LittleSound' },
